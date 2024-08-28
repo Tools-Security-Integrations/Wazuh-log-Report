@@ -28,3 +28,8 @@ Usage:
 The script will generate an Excel report in the same directory as the script, containing the specified fields from your Wazuh JSON log file.
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+
+Note: 
+if you want an script that will inhance wazuh capabilities please feel free to mail on vaibhavhandekar3@gmail.com.
